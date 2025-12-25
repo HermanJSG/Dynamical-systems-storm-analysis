@@ -32,7 +32,7 @@ STORMS = {
         "StartDate": date(2012, 12, 4),
         "EndDate": date(2013, 12, 4),
     },
-    "EGON": { #storm
+    "EGON": { #Storm
         "BaseDir": "StormEgon",
         "AffectedFolder": "affected",
         "NotAffectedFolder": "notAffected",
@@ -63,7 +63,7 @@ STORMS = {
         "StartDate": date(2014, 1, 9),
         "EndDate": date(2015, 1, 9),
     },
-    "GORM": { #Strong storm (hurricane-like),
+    "GORM": { #Strong storm (hurricane-like)
         "BaseDir": "StormGorm",
         "AffectedFolder": "affected",
         "NotAffectedFolder": "notAffected",
@@ -94,7 +94,7 @@ STORMS = {
         "StartDate": date(2014, 11, 28),
         "EndDate": date(2015, 11, 28),
     },
-    "URD": { #Strong storm (hurricane-like)
+    "URD": { #Storm
         "BaseDir": "StormUrd",
         "AffectedFolder": "affected",
         "NotAffectedFolder": "notAffected",
@@ -125,7 +125,7 @@ STORMS = {
         "StartDate": date(2015, 12, 25),
         "EndDate": date(2016, 12, 25),
     },
-    "MALIK": { #storm
+    "MALIK": { #Storm
         "BaseDir": "StormMalik",
         "AffectedFolder": "affected",
         "NotAffectedFolder": "notAffected",
@@ -156,7 +156,7 @@ STORMS = {
         "StartDate": date(2021, 1, 28),
         "EndDate": date(2022, 1, 28),
     },
-    "OTTO": { #Storm ikke endret
+    "OTTO": { #Storm
         "BaseDir": "StormOtto",
         "AffectedFolder": "affected",
         "NotAffectedFolder": "notAffected",
@@ -219,7 +219,7 @@ STORMS = {
         "StartDate": date(2022, 12, 20),
         "EndDate": date(2023, 12, 20),
     },
-    "ROLF": { #storm
+    "ROLF": { #Storm
         "BaseDir": "StormRolf",
         "AffectedFolder": "affected",
         "NotAffectedFolder": "notAffected",
